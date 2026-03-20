@@ -1,5 +1,5 @@
 {
   "script":{
-    "start":"gbb.js"
+    "start":"node gbb.js"
   }
 }
